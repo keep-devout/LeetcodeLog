@@ -1,3 +1,3 @@
-# LinuxCpp
+# My Leetcode Log
 
-> Here are some files about learn Linux and cpp
+> Here are some files are used to record my journey of Leetcode
